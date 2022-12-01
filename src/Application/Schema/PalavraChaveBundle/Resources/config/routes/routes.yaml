@@ -1,0 +1,3 @@
+project_security:
+    resource: "@ApplicationSchemaPalavraChaveBundle/Controller/"
+    type:     annotation
